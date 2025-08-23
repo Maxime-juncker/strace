@@ -1,5 +1,7 @@
 #ifndef STRACE_H
 
-int test();
+#include <sys/ptrace.h>
+
+int testfdsaf();
 
 #endif

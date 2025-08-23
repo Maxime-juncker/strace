@@ -55,4 +55,4 @@ dkms.conf
 *.dwo
 
 compile_flags.txt
-strace
+ft_strace

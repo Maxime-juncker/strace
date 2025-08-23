@@ -1,4 +1,4 @@
-NAME = strace 
+NAME = ft_strace 
 MODE ?= release
 
 OBJ_DIR = obj-$(MODE)
